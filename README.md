@@ -31,3 +31,5 @@ Le fichier `1.1 Clustering.ipynb` est un essai de différentes technologies tell
 - [t-SNE](https://fr.wikipedia.org/wiki/Algorithme_t-SNE)
 - [UMAP](https://en.wikipedia.org/wiki/Nonlinear_dimensionality_reduction)
 - [MCA](https://en.wikipedia.org/wiki/Multiple_correspondence_analysis)
+
+Merci à @pyjaman16 et @MichelPierrel pour leur participation sur le projet en fournissant le notebook sur Scikit. La conclusion de ce projet est une rédaction commune.
